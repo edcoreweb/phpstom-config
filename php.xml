@@ -1,11 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="ssh://muntz@192.168.62.128:22/usr/bin/php" id="ab520d40-46aa-4a73-8e01-13efb50d44c7" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.62.128" PORT="22" ANONYMOUS="false" USERNAME="muntz" PASSWORD="" PRIVATE_KEY_FILE="C:\Users\Eduard\ssh_keys\priv_work_server.ppk" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/muntz/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
